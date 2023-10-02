@@ -1,0 +1,12 @@
+[package]
+name = "missing_field"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "compare"
+path = "src/compare.rs"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
